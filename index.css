@@ -29,6 +29,34 @@ body, html {
 	  left: 0;
 
 }
+#project1 {
+	position: absolute;
+	width: 30%;
+	height: 30%;
+	top: 20%;
+	left: 15%;
+}
+#project1_description {
+	position: absolute;
+	width: 30%;
+	height: 30%;
+	top: 20%;
+	left: 50%;
+}
+#project2 {
+	position: absolute;
+	width: 30%;
+	height: 30%;
+	top: 65%;
+	left: 50%;
+}
+#project2_description {
+	position: absolute;
+	width: 30%;
+	height: 30%;
+	top: 65%;
+	left: 15%;
+}
 
 #projects{
 	width: 2%;
