@@ -7,12 +7,10 @@ document.addEventListener("DOMContentLoaded", () => {
 	let main_page = document.getElementById("main_page")
 
 	projects_btn.onclick = () =>{
-		console.log("clicked")
 		projects_page.style.display = "block"
 		main_page.style.display = "none"
 	}
 	back_btn.onclick = () =>{
-		console.log("clicked")
 		projects_page.style.display = "none"
 		main_page.style.display = "block"
 
